@@ -24,6 +24,6 @@ A demonstrator case study is presented in the paper with an offshore marine rise
 
 where the riser is subject to a random wave excitation and its dynamic response is obtained using a linearised frequency domain model from the [CHAOS](https://github.com/longitude-jyang/hydro-suite) code. 
 
-The results presented in the paper are based on 5000 Monte Carlo simulations. The MC data can be found [here](https://www.dropbox.com/s/h5apdcgymz4yzfc/MR_RS2_FATIGUE_N5000_11-06-2020%2008-26.mat?dl=0)
+The results presented in the paper are based on 5000 Monte Carlo simulations. The MC data is saved as *.mat file (~450 MB) and it can be found [here](https://www.dropbox.com/s/h5apdcgymz4yzfc/MR_RS2_FATIGUE_N5000_11-06-2020%2008-26.mat?dl=0). These data can be used to produce the results in the paper using the sensitivity code in this repo. 
 
 
